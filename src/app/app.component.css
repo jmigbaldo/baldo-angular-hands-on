@@ -1,0 +1,16 @@
+.body {
+	height: 100%;
+	background-color: rgb(230, 239, 247);
+	position: absolute;
+	right: 0;
+}
+
+.body .header {
+	padding: 60px 0px 10px 0px;
+}
+
+.body .main {
+	padding: 0px 0px 0px 20px;
+}
+
+

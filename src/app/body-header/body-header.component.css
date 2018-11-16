@@ -1,0 +1,24 @@
+.header {
+	width: 101.7%;
+	height: 100px;
+	background-color: white;
+	padding-left: 10px;
+}
+
+.header-text-group {
+	padding: 17px;
+	margin-left: 15px;
+}
+
+.header-title {
+	font-size: 25px;
+	color: rgb(92, 96, 101);
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+.header-links {
+	font-size: 15px;
+	color: rgb(92, 96, 101);
+	margin-right: 17px;
+}
